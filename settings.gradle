@@ -1,0 +1,6 @@
+rootProject.name = 'spring-cloud-exp'
+include 'eureka-server'
+include 'hello-service'
+include 'api-gateway'
+include 'call-service'
+
